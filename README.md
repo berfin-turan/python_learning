@@ -44,3 +44,5 @@ Bu repo sürekli güncellenmektedir.
 Zamanla daha karmaşık ve interaktif projelerle gelişmeye devam edecektir.  
 
 > Öğrenme yolculuğuma tanık olduğunuz için teşekkür ederim! 😊
+
+
