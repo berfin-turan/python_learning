@@ -1,3 +1,5 @@
+
+#Bu Python programı, kullanıcıdan kişisel bilgilerini (ad, soyad ve yaş) alarak ekranda görüntüler ve kişinin yetişkin olup olmadığını belirler.
 ad=input("Adınızı Girin: ")
 soyad=input("Soyadınızı Girin: ")
 yas=int(input("Yaşınızı Girin: "))
