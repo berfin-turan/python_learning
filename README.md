@@ -19,7 +19,14 @@ Bu repo sayesinde:
 - GitHub profilimi aktif tutmak ve gelişimimi şeffaf bir şekilde paylaşmak
 
 ---
+## İçerik
+1.(ilk.py) :Bu program, kullanıcıdan ad, soyad ve yaş bilgisi alarak yaşa göre yetişkinlik durumunu belirler.
 
+2.(math_menu) :Kullanıcının seçtiği işleme göre toplama, çıkarma, çarpma, bölme, faktöriyel ve fibonacci hesaplayan fonksiyon temelli menü sistemidir.
+
+3.(mini_atm) :Şifre kontrolüyle giriş yapılan bu uygulama, bakiye görüntüleme, para yatırma ve çekme işlemlerini içeren basit bir ATM simülasyonudur.
+
+---
 ## 🚀 Gelecek Planlarım
 
 Henüz yolun başındayım. Bu depoyu ileride:
@@ -44,3 +51,5 @@ Bu repo sürekli güncellenmektedir.
 Zamanla daha karmaşık ve interaktif projelerle gelişmeye devam edecektir.  
 
 > Öğrenme yolculuğuma tanık olduğunuz için teşekkür ederim! 😊
+
+
