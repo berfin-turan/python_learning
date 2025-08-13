@@ -22,9 +22,12 @@ Bu repo sayesinde:
 ## İçerik
 1.(ilk.py) :Bu program, kullanıcıdan ad, soyad ve yaş bilgisi alarak yaşa göre yetişkinlik durumunu belirler.
 
-2.(math_menu) :Kullanıcının seçtiği işleme göre toplama, çıkarma, çarpma, bölme, faktöriyel ve fibonacci hesaplayan fonksiyon temelli menü sistemidir.
+2.(math_menu.py) :Kullanıcının seçtiği işleme göre toplama, çıkarma, çarpma, bölme, faktöriyel ve fibonacci hesaplayan fonksiyon temelli menü sistemidir.
 
-3.(mini_atm) :Şifre kontrolüyle giriş yapılan bu uygulama, bakiye görüntüleme, para yatırma ve çekme işlemlerini içeren basit bir ATM simülasyonudur.
+3.(mini_atm.py) :Şifre kontrolüyle giriş yapılan bu uygulama, bakiye görüntüleme, para yatırma ve çekme işlemlerini içeren basit bir ATM simülasyonudur.
+
+4.(dictionary.py): Kullanıcıların İngilizce-Türkçe kelimeleri ekleyip silebildiği, çeviri yapabildiği ve tüm kelimeleri listeleyebildiği basit konsol tabanlı bir sözlük uygulamasıdır.
+
 
 ---
 ## 🚀 Gelecek Planlarım
